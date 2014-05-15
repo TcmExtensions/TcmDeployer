@@ -1,0 +1,4 @@
+Required dependencies from the Tridion Content presentation server installation are:
+
+ * Tridion.ContentDelivery.dll
+ * Tridion.ContentDelivery.Configuration.dll
