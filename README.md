@@ -46,3 +46,5 @@ Also all the parameters work as per the Tridion documentation:
 
 
 The "-start" option does not take into account a specified instance id and instance configuration directory in the original cd_deployer.
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/cb439853d159fe1de33e3197f1caf6f7 "githalytics.com")](http://githalytics.com/github.com/TcmExtensions)
